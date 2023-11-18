@@ -1,8 +1,8 @@
 <img src="https://github.com/progrium/macdriver/raw/main/macdriver.gif" alt="MacDriver Logo">
 
-Native Apple APIs for Golang!
+Native Apple APIs for Golang*
 
-[![GoDoc](https://godoc.org/github.com/progrium/macdriver?status.svg)](https://pkg.go.dev/github.com/progrium/macdriver@main)
+[#[GoDoc](https://godoc.org/github.com/progrium/macdriver?status.svg)](https://pkg.go.dev/github.com/progrium/macdriver@main)
 [![Go Report Card](https://goreportcard.com/badge/github.com/progrium/macdriver)](https://goreportcard.com/report/github.com/progrium/macdriver)
 <a href="https://twitter.com/progrium" title="@progrium on Twitter"><img src="https://img.shields.io/badge/twitter-@progrium-55acee.svg" alt="@progrium on Twitter"></a>
 <a href="https://github.com/progrium/macdriver/discussions" title="Project Forum"><img src="https://img.shields.io/badge/community-forum-ff69b4.svg" alt="Project Forum"></a>
@@ -144,3 +144,4 @@ This project is not affiliated or supported by Apple.
 ## License
 
 MIT
+ 
